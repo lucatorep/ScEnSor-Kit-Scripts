@@ -4,11 +4,12 @@ _NOTE._ This script was used to analyse data coming from the BioLector I. Exampl
 
 Getting started:
 
-1. Check the data organisation in the example file provided here ().
-2. Download the script and place it in the same folder of the file to be analysed. The file name should end with "Analysis" and should be a .xlsx file. Changes in the script can be made to import other file formats.
-3. Re-arrange the excel file. In a sheet called "Data", transfer the raw data. In a sheet named "layout", assign the variables associated to each well (strain, biosensor, medium, etc.).
-4. Open the script and follow directions. 
-5. Make changes upon need (replace grouping variables, etc.).
+1. Install RMarkdown in R. No need of pre-installing the packages needed as they will be installed automatically if not already.
+2. Check the data organisation in the example file (Example_Analysis.xlsx) provided here.
+3. Re-arrange the excel file. In a sheet called "analysis", transfer the BioLector I raw data. Here, the first column (called "well") should contain the name of the wells (A1, A2, etc.), the second one (called "channel") the channels used in the screening (up to 6) and then one column for each timepoint. In a sheet named "layout", assign the variables associated to each well (strain, biosensor, medium, etc.).
+4. Download the script and place it in the same folder of the file to be analysed. The excel file name should end with "Analysis" and should be a .xlsx file. Changes in the script can be made to import other file formats.
+5. Open the script and follow the directions. 
+6. Make changes upon need (replace grouping variables, dimentions of images, etc.).
 
 ----
 Luca Torello Pianale, lucat@chalmers.se, Industrial Biotechnology Division, Chalmers University of technology
