@@ -1,6 +1,6 @@
 # ScEnSor-Kit-Script
 
-_NOTE._ This script was used to analyse data coming from the BioLector I. Example of the script output can be found here: 
+_NOTE._ This script was used to analyse data coming from the BioLector I. Example of the script output can be found in "Script_Output" folder or in the following publication: 
 
 Getting started:
 
@@ -14,7 +14,7 @@ Getting started:
 ----
 Luca Torello Pianale, lucat@chalmers.se, Industrial Biotechnology Division, Chalmers University of technology
 
-Created: 22-12-20.
+Created: December, 2022.
 
 The scripts were tested with: R Version 4.1.2 (2021-11-01) - RStudio (2021.09.2 Build 382)  
 
