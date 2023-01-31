@@ -1,7 +1,7 @@
 # ScEnSor-Kit-Script
 
 _NOTE._ This script has been developed for the following publication:  
-The script analyses data coming from the BioLector I. Example of the script output can be found in "Script_Output" folder or in the above-mentioned publication. 
+The script analyses data coming from the BioLector I. Example of the script output can be found in "Script_Output" folder or in the above-mentioned publication.  
 Script available also in the "ScEnSor-Kit_Biolector_Analysis_Markdown.pdf" file (with figures embedded in the code).
 
 Getting started:
